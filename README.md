@@ -27,7 +27,7 @@ class GurudevA:
         self.location     = "Thiruvallur, Tamil Nadu, India"
         self.degree       = "B.Tech Information Technology (2023–2027)"
         self.college      = "Prathyusha Engineering College"
-        self.cgpa         = 9.2
+        self.cgpa         = 8.9
         self.github       = "github.com/gurudevIT27"
         self.email        = "gurudevg498@gmail.com"
 
@@ -216,7 +216,7 @@ class GurudevA:
 
 | | Achievement | Details |
 |---|---|---|
-| 🎓 | **CGPA 9.2 / 10** | B.Tech Information Technology — Prathyusha Engineering College |
+| 🎓 | **CGPA 8.9 / 10** | B.Tech Information Technology — Prathyusha Engineering College |
 | 💼 | **4 Internships Completed** | Bluestock · The Skybrisk · Uptoskills · Nan Logical Consultancy |
 | 🏅 | **IBM Certified** | Python for Data Science — IBM |
 | 🔐 | **Software Engineering Certified** | Saylor.org |
@@ -236,7 +236,7 @@ class GurudevA:
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| B.Tech — Information Technology | Prathyusha Engineering College, Thiruvallur | 2023 – 2027 | 9.2 / 10 CGPA |
+| B.Tech — Information Technology | Prathyusha Engineering College, Thiruvallur | 2023 – 2027 | 8.9 / 10 CGPA |
 
 </div>
 
